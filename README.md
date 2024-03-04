@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afaghaliya
 - 👀 I’m interested in "DATA"
-- 🌱 I’m currently learning data anaytics
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? afaghaliya@gmail.com
 
